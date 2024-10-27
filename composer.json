@@ -24,7 +24,7 @@
     "require": {
         "php": ">=7.4.0",
         "ext-json": "*",
-        "psr/http-client": "1.0.*",
+        "psr/http-client": "1.0.1",
         "psr/log": "1.1.*",
         "guzzlehttp/guzzle": "6.*|7.*",
         "symfony/serializer": "4.4.*|5.4.*",
